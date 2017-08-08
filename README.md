@@ -1,9 +1,8 @@
 # Site_monitor.py
 #!/usr/bin/env python
-__author__ = 'cahitonur'
+__author__ = 'kishorekumarbheemappahanabr'
 # Simple site monitor.
-# Usage: $ python monitor.py domain time_interval
-# Usage example: $ python monitor.py github.com 60
+
 
 from sys import argv
 import urllib2
